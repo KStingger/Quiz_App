@@ -82,3 +82,9 @@ form{
 .incorrect{
     background: #ff9393;
 }
+
+@media(max-width: 800px){
+    form(
+        width: 100%;
+    )
+}
