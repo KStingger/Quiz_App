@@ -84,7 +84,7 @@ form{
 }
 
 @media(max-width: 800px){
-    form(
-        width: 100%;
-    )
+    form{
+                width: 100%;
+    }
 }
